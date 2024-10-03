@@ -1,1 +1,3 @@
 This is my first FullStack React App. It basically simply takes notes, whereby it takes note title and note content. This is a full stack app with backend and frontend. The code provided here for backend is accuracte but needs to be adjusted according to the DB in use (I used Postgres SQL in Tembo). This is quite a simple app and I did not cretae it from scratch rather I learned it through Youtube ))
+
+P.S. The other two branches namely, UI and Server contains the source code this default branch was created using gh-pages (https://github.com/gitname/react-gh-pages) to see how the app would look (structire-wise only).
